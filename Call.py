@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : ./FUKUR0-3XP
+# Author : ./FAUZAN AZHARI
 # Team : Black Coders Anonymous Satanic Exploiter Team ( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Belajar Boleh, Asalkan Jangan Recode Yak >_<
@@ -40,7 +40,7 @@ def banner():
 \____/| .__/ \__,_|_| |_| |_|  \____/\__,_|_|_|
       | |                                      
       |_|                                      
-                '''+W+'Creator : ./Fukur0\n\t\t     YT : Jejak Cyber')
+                '''+W+'Creator : ./Fauzan Azhari\n\t\t     YT : FauzanAzhariGaming')
                 
 def tiks(s):
 	for x in s + '\n':
